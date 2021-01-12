@@ -2,3 +2,7 @@
 - Aggiungere la posizione della winery ?
 - Trasformare region_1 e region_2 in coordinate V
 - Region complete mettere spazi vuoti a Nan
+- Provare ad aggiungere lat e long a regressor e vedere la loro feature importance
+
+- togliere lat long da regressor
+- provare a fare tf-idf delle N parole più presenti? O magari tfdf
