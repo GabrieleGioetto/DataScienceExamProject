@@ -1,3 +1,4 @@
 - Tradurre tutti i riserva in un unica lingua V
 - Aggiungere la posizione della winery ?
-- Trasformare region_1 e region_2 in coordinate
+- Trasformare region_1 e region_2 in coordinate V
+- Region complete mettere spazi vuoti a Nan
