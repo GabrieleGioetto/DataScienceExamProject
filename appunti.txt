@@ -1,8 +1,11 @@
 - Tradurre tutti i riserva in un unica lingua V
 - Aggiungere la posizione della winery ?
 - Trasformare region_1 e region_2 in coordinate V
-- Region complete mettere spazi vuoti a Nan
-- Provare ad aggiungere lat e long a regressor e vedere la loro feature importance
+- Region complete mettere spazi vuoti a Nan V
+- Provare ad aggiungere lat e long a regressor e vedere la loro feature importance V
 
-- togliere lat long da regressor
+- togliere lat long da regressor V
 - provare a fare tf-idf delle N parole più presenti? O magari tfdf
+- aggiungere country V
+
+- togliere designation?
