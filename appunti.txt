@@ -9,3 +9,4 @@
 - aggiungere country V
 
 - togliere designation?
+- provare a mettere oltre a top N anche low N
