@@ -10,3 +10,12 @@
 
 - togliere designation?
 - provare a mettere oltre a top N anche low N
+- provare a vedere come gestire missing data
+- box plot quality e vedere se ci sono dati outliers ( magari vedere se ci sono altri putliers)
+- provare altre regression oltre a RandomForest
+
+
+Cosa faccio ora:
+- region_complete, variety and country -> One hot encoding
+- designation -> encoding top N designations
+- designation -> encoding most frequent words from descriptions
