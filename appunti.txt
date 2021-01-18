@@ -8,11 +8,15 @@
 - provare a fare tf-idf delle N parole più presenti? O magari tfdf
 - aggiungere country V
 
-- togliere designation?
+- togliere designation? Sì meglio toglierla V
 - provare a mettere oltre a top N anche low N
+- al posto di mettere top mettere dei range ( creare dei chunk )
 - provare a vedere come gestire missing data
-- box plot quality e vedere se ci sono dati outliers ( magari vedere se ci sono altri putliers)
-- provare altre regression oltre a RandomForest
+- box plot quality e vedere se ci sono dati outliers ( magari vedere se ci sono altri outliers) 
+- provare altre regression oltre a RandomForest V
+- togliere righe (n=15) con quality uguale a zero V
+- aggiungere description length e fare istogramma
+- aggiungere top winery V
 
 
 Cosa faccio ora:
