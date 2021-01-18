@@ -11,6 +11,7 @@
 - togliere designation? Sì meglio toglierla V
 - provare a mettere oltre a top N anche low N
 - al posto di mettere top mettere dei range ( creare dei chunk )
+- nei chunk designation mettere un min count per essere aggiunto come chunk
 - provare a vedere come gestire missing data
 - box plot quality e vedere se ci sono dati outliers ( magari vedere se ci sono altri outliers) 
 - provare altre regression oltre a RandomForest V
