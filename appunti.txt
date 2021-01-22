@@ -19,10 +19,11 @@
 - aggiungere description length e fare istogramma V
 - aggiungere top winery V
 
-- provare ad aggiungere province
+
+- Provare a rimuovere tutti gli outliers 
 
 
 Cosa faccio ora:
-- region_complete, variety and country -> One hot encoding
-- designation -> encoding top N designations
+- region_complete, variety and country, province -> One hot encoding
+- designation, winery-> encoding top N designations
 - descriptions -> encoding most frequent words from descriptions
